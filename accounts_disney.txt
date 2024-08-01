@@ -1,20 +1,9 @@
-darah_73@hotmail.com:Bbacy0312! | Type = SUCCESS | Country = US | Plan = [Darah] | Next Renewal Date = 2024-02-07 | Config By MrWhite
-caroline.sandholdt@hotmail.dk:Caro0904 | Type = SUCCESS | Country = DK | Plan = [Disney Plus Monthly - DK - Web - 2021] | Next Renewal Date = 2024-02-19 | Config By MrWhite
-benspurling_pt@hotmail.com:#1trainer | Type = SUCCESS | Country = AU | Plan = [Dadda] | Next Renewal Date = 2024-02-23 | Config By MrWhite
-gema_esc@hotmail.com:Salmo128 | Type = SUCCESS | Country = ES | Plan = [David] | Next Renewal Date = 2024-02-03 | Config By MrWhite
-codyallen09@hotmail.com:Runescape32 | Type = SUCCESS | Country = US | Plan = [Disney+, Hulu, and ESPN+ - Hulu Sold Live w/ Ads] | Config By MrWhite
-gideon_fs840@hotmail.com:Newpass1! | Type = SUCCESS | Country = US | Plan = [Disney Plus Monthly - US -  Tizen] | Next Renewal Date = 2024-02-23 | Config By MrWhite
-c.hohn@hotmail.com:Malcolm84! | Type = SUCCESS | Country = AU | Plan = [Disney Plus Monthly - Apple - 2021] | Next Renewal Date = 2024-02-17 | Config By MrWhite
-kanfly65@hotmail.com:65Shelby$ | Type = SUCCESS | Country = US | Plan = [Disney Plus Yearly - US - Web] | Next Renewal Date = 2024-06-17 | Config By MrWhite
-launerkadie@hotmail.com:Tramp21! | Type = SUCCESS | Country = AU | Plan = [Disney Plus Monthly - AU - Web - 2021] | Next Renewal Date = 2024-02-05 | Config By MrWhite
-eddyhemmings@hotmail.com:9iRPMh3ll | Type = SUCCESS | Country = GB | Plan = [Disney+ Premier Access - Black Widow - Apple - Tier 20] | Next Renewal Date = 2024-10-31 | Config By MrWhite
-nadianottle@live.com.au:Nadia1981 | Type = SUCCESS | Country = AU | Plan = [Disney Plus Premium 2022 - Monthly - Apple] | Next Renewal Date = 2024-02-06 | Config By MrWhite
-ashtoneileen98@hotmail.com:Buddyyoung98 | Type = SUCCESS | Country = US | Plan = [Disney Plus Premium - Monthly - Amazon] | Next Renewal Date = 2024-02-28 | Config By MrWhite
-tbatchelor92@hotmail.com:MOWgli22 | Type = SUCCESS | Country = US | Plan = [Disney Bundle Duo Premium] | Next Renewal Date = 2024-02-29 | Config By MrWhite
-shazbloor1@hotmail.co.uk:Abersoch1965 | Type = SUCCESS | Country = GB | Plan = [Disney Plus Monthly - UK - Web - 2021] | Next Renewal Date = 2024-02-13 | Config By MrWhite
-jarodph16@hotmail.com:Emachines1 | Type = SUCCESS | Country = US | Plan = [Disney Plus Premium - Monthly - Amazon] | Next Renewal Date = 2024-02-20 | Config By MrWhite
-ticafr974@live.fr:Lareunion974 | Type = SUCCESS | Country = FR | Plan = [Disney Plus Non-Recurring - FR - Canal Plus - Bundle] | Config By MrWhite
-michelle_persan@hotmail.fr:Mimi5678 | Type = SUCCESS | Country = FR | Plan = [Disney Plus Standard Monthly - FR - Web] | Next Renewal Date = 2024-02-13 | Config By MrWhite
-timklaassens@live.nl:tim822001 | Type = SUCCESS | Country = NL | Plan = [Disney Plus Monthly - NL - Web - 2021] | Next Renewal Date = 2024-02-14 | Config By MrWhite
-megilee@hotmail.com:Laugh1ng! | Type = SUCCESS | Config = Disney+ Checker v2.0 | Wordlist = 2.5M HQ HOTMAIL | Proxy =  | Date = Freitag, 2. Februar 2024 | Country = US | Plan = [Disney Plus - US - Verizon - Bundle Promo] | Config By MrWhite
-cammclain@hotmail.com:Password1! | Type = SUCCESS | Config = Disney+ Checker v2.0 | Wordlist = 2.5M HQ HOTMAIL | Proxy =  | Date = Freitag, 2. Februar 2024 | Country = US | Plan = [Disney+, Hulu No Ads, and ESPN+] | Next Renewal Date = 2024-02-18 | Config By MrWhite
+captinwinky79@gmail.com:captinwinky1979 | Country = GB | E-mail Verified = True | Flagged = False
+korgeira@msn.com:Noelle@9353 | Country = DE | E-mail Verified = True | Flagged = False
+thejac1979@hotmail.com:Everlymae1! | Country = US | E-mail Verified = True | Flagged = False
+yurydanielavelez@gmail.com:v2322367 | Country = GB | E-mail Verified = True | Flagged = False
+jbarnes@central.com:Silver1639! | Country = IN | E-mail Verified = True | Flagged = False
+woodsjaida98@gmail.com:Emblemthree3 | Country = BR | E-mail Verified = True | Flagged = False
+rcartesvillanueva@gmail.com:Mehuin010885 | Country = BR | E-mail Verified = True | Flagged = False
+marshaelena@hotmail.com:Ralph123 | Country = US | E-mail Verified = True | Flagged = False
+indylush2@att.net:usaerml2 | Country = GB | E-mail Verified = True | Flagged = False
